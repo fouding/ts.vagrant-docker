@@ -1,4 +1,4 @@
-## [Alpine Linux](http://alpinelinux.org) v3.1.3
+## [Alpine Linux](http://alpinelinux.org) v3.2
 
 * x86_64
 * base install
